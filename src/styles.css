@@ -71,3 +71,8 @@ ul {
   color: #24527a;
   font-weight: bold;
 }
+.footer {
+  display: block;
+  margin: auto;
+  text-align: center;
+}
